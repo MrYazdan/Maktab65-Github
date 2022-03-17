@@ -1,3 +1,4 @@
 # DevOps Tools - Maktab 64
 
-🟢 [Yazdan](https://girhub.com/MrYazdan/)
+🟢 [Yazdan](https://github.com/MrYazdan/)\
+🔴 [narjes_Ghiami](https://github.com/n-ghiyami/)
