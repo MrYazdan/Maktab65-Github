@@ -1,4 +1,4 @@
-# DevOps Github Tools - Maktab 65
+# :book: Maktab65 DevOps Tools (Github) repository
 
 🟢 [Yazdan](https://girhub.com/MrYazdan/)\
 🟡 [elnaztajari](https://github.com/entajari/)\
@@ -8,3 +8,5 @@
 🐤 [mahsa](https://github.com/106mahsamoghaddami)\
 🔵 [el paseban](https://github.com/Elahepasban)\
 🟡 [Maryam_Khaledi](https://github.com/MaryamKhaledi)
+
+> Memory: Teaching Python|Django Bootcamp - maktab-65 - [maktab sharif academy](https://maktabsharif.ir)
